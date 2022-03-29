@@ -315,8 +315,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="368.85757"
+     inkscape:zoom="2"
+     inkscape:cx="484.00476"
      inkscape:cy="131.17144"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
@@ -916,6 +916,6 @@
          id="tspan18862"
          x="136.26042"
          y="49.741665"
-         style="stroke-width:1.79999995">(-1;0)</tspan></text>
+         style="stroke-width:1.79999995">(+1;0)</tspan></text>
   </g>
 </svg>
